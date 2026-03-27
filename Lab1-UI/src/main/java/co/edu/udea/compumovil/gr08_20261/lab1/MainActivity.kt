@@ -23,7 +23,6 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    // Crear el ViewModel aquí
                     val contactViewModel: ContactViewModel = viewModel()
 
                     val navController = rememberNavController()
