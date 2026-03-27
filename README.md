@@ -1,1 +1,0 @@
-# Soccer-football-manager-ejecutive
