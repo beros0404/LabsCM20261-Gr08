@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Labs20261-Gr08</string>
+    <string name="personal_data">Personal Data</string>
+    <string name="contact_data">Contact Data</string>
+    <string name="names">Names</string>
+    <string name="last_names">Last Names</string>
+    <string name="sex">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="birth_date">Birth Date</string>
+    <string name="education_level">Education Level</string>
+    <string name="primary">Primary</string>
+    <string name="secondary">Secondary</string>
+    <string name="university">University</string>
+    <string name="other">Other</string>
+    <string name="phone">Phone</string>
+    <string name="address">Address</string>
+    <string name="email">Email</string>
+    <string name="country">Country</string>
+    <string name="city">City</string>
+    <string name="next">Next</string>
+    <string name="save">Save</string>
+    <string name="required_field">Required field</string>
+    <string name="invalid_email">Invalid email address</string>
+    <string name="invalid_phone">Invalid phone number</string>
+    <string name="select_date">Select date</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+</resources>
